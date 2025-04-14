@@ -13,7 +13,6 @@ class WeatherViewModel : ViewModel() {
 
     private val weatherRepository = WeatherRepository(WeatherApiService.create())
 
-    // API Key - Replace this with your actual API key
     private val apiKey = "0a5357f17c6334382676f6f85fa1c76f"
 
     // LiveData for weather data
