@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherCast</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="search_button_description">Search</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="error_city_not_found">City not found. Please try again.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+</resources>
